@@ -63,10 +63,11 @@ rpm:
     - libadwaita
     # Add your own below:
     # Example:
-    - micro
-    - mc
     - duf
+    - exa
     - htop
+    - mc
+    - micro
     - neofetch
 
     # These RPMs will be removed from the system image. This step happens during
