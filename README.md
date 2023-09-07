@@ -13,14 +13,13 @@ My thanks goes out to anyone who made my tinkering possible, you're all amazing 
 For more info, check out https://universal-blue.org/
 
 ## Why and what?
-Immutable OS's and distros are becoming increasingly popular, at least they are applied more. Think about Fedora and its Silverblue and Kinoite, OpenSUSE and MicroOS, VanillaOS, EndlessOS, Nix and soon even Ubuntu, to name but a few. The reasoning behind it can be found in many places on the Internet; you might agree or not, but i am not going to repeat them all over here. I see the point of it (immutable core, containerized applications, no or just a very limited number of trusted outside ppa's, aur, copr, git scripts having adminstrator access to your system, easy rollbacks etc.) and I've been moving some of my stuff to it.
-
-But you can still find me editing the fstab file or adding a custom kernel in rolling releases like Arch, Tumbleweed or Siduction. I prefer my environment to be very minimal, with basically always the same applications on top of it.
+Immutable OS's and distros are becoming increasingly popular, at least they are applied more. Think about Fedora and its Silverblue and Kinoite, OpenSUSE and MicroOS, VanillaOS, EndlessOS, Nix and soon even Ubuntu, to name but a few. The reasoning behind it can be found in many places on the Internet; you might agree or not, but i am not going to repeat them all over here. I see the point of it (immutable core, containerized applications, no or just a very limited number of trusted outside ppa's, aur, copr, git scripts having adminstrator access to your system, easy rollbacks etc.) and I've been moving some of my stuff to it. But you can still find me editing the fstab file or adding a custom kernel in rolling releases like Arch, Tumbleweed or Siduction. 
+I prefer my environment to be very minimal, with basically always the same applications on top of it.
 
 Silver-Ublue-Saigon is my personal take on Silverblue (immutable Fedora Gnome), rebased by the Ublue team and  where I have added some cli tools (i.e neofetch, htop, mc etc) and where I have pruned the original base image.
 
 ## Tools added or removed:
-**Added: **                        **Removed:**
+**Added:**                         **Removed:**
 - duf
 - exa
 - htop
