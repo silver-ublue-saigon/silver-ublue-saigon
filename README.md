@@ -21,21 +21,12 @@ Silver-Ublue-Saigon is my personal take on Silverblue (immutable Fedora Gnome), 
 #### Tools added or removed:
 
     **Added: **                        **Removed:**
-    - dnf5                             - filelight
     - duf                              - firefox, firefox-langpacks
-    - exa                              - kcalc
-    - hplip                            - kcharselect
-    - htop                             - kde-connect, kde-connect-libs
-    - kate                             - kde-connectd
-    - kde-print-manager                - kfind
-    - krusader                         - kmag
-    - neofetch                         - kmousetool
-    - lightly                          - krfb, krfb-libs
-    - mc                               - nvtop
-    - micro                            - plasma-discover-notifier
-    - skanpage                         - plasma-welcome
-                                       - plasma-discover
-                                       - plasma-discover-flatpak
+    - exa                              
+    - htop                             
+    - mc                               
+    - micro
+    - neofetch
   
 ## Installation
 
