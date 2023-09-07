@@ -66,6 +66,7 @@ rpm:
     - duf
     - exa
     - htop
+    - kitty
     - mc
     - micro
     - neofetch
@@ -79,10 +80,7 @@ rpm:
     - nvtop
     - gnome-software
     - gnome-software-rpm-ostree
-    - gnome-packagekit
-    - gnome-packagekit-common
-    - gnome-packagekit-updater
-    - gnome-packagekit-installer
+    - gnome-terminal
 
 # Configuration for the "first boot" experience, which is available after login.
 firstboot:
