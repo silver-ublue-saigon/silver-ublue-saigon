@@ -19,8 +19,9 @@ I prefer my environment to be very minimal, with basically always the same appli
 Silver-Ublue-Saigon is my personal take on Silverblue (immutable Fedora Gnome), rebased by the Ublue team and where I have added some cli tools (i.e neofetch, htop, mc etc) and where I have pruned the original base image.
 
 ## Tools added or removed:
-**Added:**                         **Removed:**
-- duf                              - firefox
+
+**Added:**                **Removed:**
+- duf                     -firefox
 - exa
 - htop
 - mc
