@@ -20,7 +20,7 @@ Silver-Ublue-Saigon is my personal take on Silverblue (immutable Fedora Gnome), 
 
 ## Tools added or removed:
 **Added:**                         **Removed:**
-- duf
+- duf                              - firefox
 - exa
 - htop
 - mc
