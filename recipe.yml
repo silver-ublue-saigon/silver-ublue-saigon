@@ -86,6 +86,7 @@ rpm:
     - gnome-terminal-nautilus
     - nautilus
     - nautilus-extensions
+    - gnome-classic-session
 
 # Configuration for the "first boot" experience, which is available after login.
 firstboot:
