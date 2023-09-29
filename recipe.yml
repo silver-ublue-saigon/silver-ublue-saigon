@@ -66,10 +66,10 @@ rpm:
     - duf
     - exa
     - htop
-    - alacritty
+    - kitty
     - mc
     - micro
-    - neofetch
+    - fastfetch
     - thunar
     - thunar-volman
     - thunar-archive-plugin
