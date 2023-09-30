@@ -69,11 +69,12 @@ rpm:
     - doublecmd-common
     - duf
     - exa
+    - fastfetch
+    - fileroller
     - htop
     - kitty
     - mc
     - micro
-    - fastfetch
     - thunar
     - thunar-volman
     - thunar-archive-plugin
