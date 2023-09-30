@@ -14,27 +14,24 @@ My thanks goes out to anyone who made my tinkering possible, you're all amazing 
 Immutable OS's and distros are applied increasingly more. Think about Fedora and its Silverblue and Kinoite, OpenSUSE and MicroOS, VanillaOS, EndlessOS, Nix and soon even Ubuntu, to name but a few. The reasoning behind it can be found in many places on the Internet; you might agree or not, but i am not going to repeat them all over here. But you can still find me editing the fstab file or adding a custom kernel in rolling releases like Arch, Tumbleweed or Siduction. 
 I prefer my environment to be very minimal, with basically always the same applications on top of it.
 
-Silver-Ublue-Saigon is my personal take on Silverblue (immutable Fedora Gnome), rebased by the Ublue team and where I have added some cli tools (i.e neofetch, htop, mc etc) and where I have pruned the original base image. There is no Gnome software store available; all flatpaks can be installed from the command line. The Yafti tool provides a GUI tool on startup to install some applications already.
+Silver-Ublue-Saigon is my personal take on Silverblue (immutable Fedora Gnome), rebased by the Ublue team and where I have added some cli tools (i.e fastfetch, btop, mc etc) and where I have pruned the original base image. There is no Gnome software store available; all flatpaks can be installed from the command line. The Yafti tool provides a GUI tool on startup to install some more applications already and it guides you through the setup of Flathub.
 
 #### Tools added or removed:
 
     **Added: **                        **Removed:**
-    - alacritty                        - firefox, firefox-langpacks
-    - duf                              - nvtop
-    - exa                              - gnome-software    
-    - htop                             - gnome-software-rpm-ostree    
-    - mc                               - gnome-terminal
-    - micro                            - gnome-terminal-nautilus
-    - neofetch                         - nautilus
-    - thunar                           - nautilus-extensions
-    - thunar-volman                    - gnome-classic-session
+    - btop                              - firefox, firefox-langpacks
+    - duf                               - nvtop
+    - exa                               - gnome-software    
+    - kitty                             - gnome-software-rpm-ostree    
+    - mc                                - gnome-terminal
+    - micro                             - gnome-terminal-nautilus
+    - fastfetch                         - nautilus
+    - thunar                            - nautilus-extensions
+    - thunar-volman                     - gnome-classic-session
     - thunar-archive-plugin                           
                                    
     
 ## Installation
-
-> **Warning**
-> This is an experimental feature and should not be used in production, try it in a VM for a while!
 
 To rebase an existing Silverblue/Kinoite installation to the latest build:
 
