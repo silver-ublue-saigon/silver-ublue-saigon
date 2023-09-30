@@ -70,7 +70,6 @@ rpm:
     - duf
     - exa
     - fastfetch
-    - fileroller
     - htop
     - kitty
     - mc
