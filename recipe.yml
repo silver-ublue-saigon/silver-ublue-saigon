@@ -65,18 +65,17 @@ rpm:
     - libsass
     - sassc
     # additional software:
-    - doublecmd-gtk
-    - doublecmd-common
+    - ark
+    - btop
     - duf
     - exa
     - fastfetch
-    - htop
     - kitty
     - mc
     - micro
-    - nemo
-    - nemo-fileroller
-
+    - thunar
+    - thunar-volman
+    - thunar-archive-plugin
     # These RPMs will be removed from the system image. This step happens during
     # image build, BEFORE installing custom RPMs (from the "rpm.install" category).
   remove:
