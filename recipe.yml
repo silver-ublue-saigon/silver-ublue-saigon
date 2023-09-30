@@ -64,8 +64,8 @@ rpm:
     # 2 files to compile css code when theming
     - libsass
     - sassc
-    # Add your own below:
-    # Example:
+    # additional software:
+    - doublecmd-gtk
     - duf
     - exa
     - htop
